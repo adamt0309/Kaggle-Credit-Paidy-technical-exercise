@@ -1,0 +1,2 @@
+,Model,MSE,RMSE,MAE,MSLE,RMSLE,Accuracy Train,Accuracy Test,F-Beta Score (β=2)
+1,XGBoost,5.13,2.26,9.73,2.51,1.58,97.68,97.44,21.72
